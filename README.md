@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi There! 👋
+
+My name is Ryan Sponzilli, I am 20 years old. I am currently attending the University of Illinois at Urbana-Champaign. I am majoring in Astronomy + Data Science and minoring in Geology. I am stronly considering switching to a dual degree program for both Astronomy + Data Science and Geophysics. I enjoy solving problems, especially related to programming. Check out my pinned repositories to see some of my projects!
 
 <!--
 **ryguy2k4/ryguy2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
