@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
-My name is Ryan Sponzilli, I am 20 years old. I am currently attending the University of Illinois at Urbana-Champaign. I am majoring in Astronomy + Data Science and minoring in Geology. I enjoy solving problems, especially related to programming. Check out my pinned repositories to see some of my projects!
+My name is Ryan Sponzilli and I am a junior at the University of Illinois Urbana-Champaign. I am pursuing a dual degree: Astronomy + Data Science, BSLAS; and Geophysics, BS. I’m pursuing a data-oriented career with specific interests in data analytics, research, astronomy, and geology. Through my Astronomy + Data Science degree, I’ve gained hands-on research experience and developed strong technical skills. My second degree in Geophysics deepens my understanding of Earth systems and complements my astronomy background. I regularly work with Python (pandas, matplotlib, numpy, scikit-learn, astropy) and have experience using Tableau, Power BI, Docker, GitHub, and SQL. My Github portfolio features several in-depth, self-driven projects that apply these tools to data analysis. Check out my pinned repositories to see some of my projects! I’m driven by my natural curiosity to ask questions and seek an in-depth understanding of new concepts, I’m always looking to learn something new, and I’m always willing to collaborate and learn from peers and mentors.
 
 <!--
 **ryguy2k4/ryguy2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
